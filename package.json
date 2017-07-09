@@ -1,0 +1,26 @@
+{
+  "name": "wiki-plugin-markedex",
+  "version": "0.1.0",
+  "description": "Federated Wiki - Marked with KaTeX and FedWiki support Plug-in",
+  "keywords": [
+    "wiki",
+    "federated wiki",
+    "plugin"
+  ],
+  "author": {
+    "name": "Denis Zhidkikh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-git-authors": "^3.0.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
