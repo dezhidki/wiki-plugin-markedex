@@ -1,6 +1,5 @@
 ###
  * Federated Wiki : Marked w/ KaTeX Plugin
- *
 ###
 
 load = (callback) ->

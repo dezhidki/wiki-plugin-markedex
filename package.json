@@ -1,15 +1,12 @@
 {
   "name": "wiki-plugin-markedex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Federated Wiki - Marked with KaTeX and FedWiki support Plug-in",
   "keywords": [
     "wiki",
-    "federated wiki",
     "plugin"
   ],
-  "author": {
-    "name": "Denis Zhidkikh"
-  },
+  "author": "Denis Zhidkikh",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +19,10 @@
   "license": "MIT",
   "engines": {
     "node": ">=0.10"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dezhidki/wiki-plugin-markedex.git"
   }
 }
